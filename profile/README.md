@@ -1,5 +1,11 @@
 Innovative software solutions that work out of the box
 
+**Software consultancy:** we design and build new applications and platforms for clients, and we maintain, extend, and harden software that’s already in production—across mobile, web, desktop, and APIs.
+
+**Contact:** contact@batteriesincluded.io
+
+**Website:** https://batteriesincluded.io
+
 Our Mission
 
 At Batteries Included Software Solutions, we believe that great software should work seamlessly out of the box. Our mission is to deliver innovative, secure, and user-friendly solutions that empower businesses and individuals to achieve their goals without the hassle of complex setup or configuration.
@@ -14,7 +20,3 @@ Our Values
  - Security: Security and privacy are built into every solution
  - Innovation: We stay ahead of the curve with modern technologies
  - Simplicity: Complex problems deserve elegant, simple solutions
-
-**Contact:** contact@batteriesincluded.io
-
-**Website:** https://batteriesincluded.io
